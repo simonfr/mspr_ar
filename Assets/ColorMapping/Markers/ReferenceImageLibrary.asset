@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5003413278571438573
+  m_GuidHigh: 9202652699963039403
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4667402367618098725
+      m_GuidHigh: 8667361830639441078
+    m_SerializedTextureGuid:
+      m_GuidLow: 13926400887164794563
+      m_GuidHigh: 10218343782001387849
+    m_Size: {x: 0.21, y: 0.29701656}
+    m_SpecifySize: 1
+    m_Name: sw-12
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5726802017282589774
+      m_GuidHigh: 5590247877592982439
+    m_SerializedTextureGuid:
+      m_GuidLow: 16486955828386462112
+      m_GuidHigh: 15152909549452366507
+    m_Size: {x: 0.21, y: 0.27916}
+    m_SpecifySize: 1
+    m_Name: rhino
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5022514716993995658
+      m_GuidHigh: 4033172415186362754
+    m_SerializedTextureGuid:
+      m_GuidLow: 16487787513643524517
+      m_GuidHigh: 12179214330749580154
+    m_Size: {x: 0.21, y: 0.28028}
+    m_SpecifySize: 1
+    m_Name: serp
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5642483906112458378
+      m_GuidHigh: 11831403570325486219
+    m_SerializedTextureGuid:
+      m_GuidLow: 17619152927390020546
+      m_GuidHigh: 17125371126524501002
+    m_Size: {x: 0.21, y: 0.27916}
+    m_SpecifySize: 1
+    m_Name: singe
+    m_Texture: {fileID: 0}
